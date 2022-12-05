@@ -6,7 +6,9 @@ A simple python script that allows you to export multiple Abeton Live sets autom
 Requisites: 
 
 -Windows
+
 -python3 installed
+
 -python keyboard module installed (can be done using the command 'pip install keyboard')
 
 1. Download the AbletonLiveAutoExporter.py file
