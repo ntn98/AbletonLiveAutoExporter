@@ -3,8 +3,7 @@ A simple python script that allows you to export multiple Abeton Live sets autom
 
 # User Instructions
 
-Requisites: 
--Windows
+Requisites: \n-Windows
 -python3 installed
 -python keyboard module installed (can be done using the command 'pip install keyboard')
 
